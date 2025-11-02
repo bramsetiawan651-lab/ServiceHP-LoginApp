@@ -16,7 +16,8 @@ A Java application for managing HP service data with a login authentication syst
 - JDBC Connector
 
 ## 📸 Preview
-(Upload screenshot program di sini)
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/3df09f1f-6cb0-4a38-92cd-eae8e294206a" />
+
 
 ## 👨‍💻 Developer
 Bram Setiawan  
